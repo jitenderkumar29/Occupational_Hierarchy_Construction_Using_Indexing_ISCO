@@ -1,0 +1,7 @@
+Metric,Value
+ARI,0.4918
+NMI,0.7465
+AMI,0.7307
+Silhouette,0.1688
+Davies-Bouldin,1.5506
+Calinski-Harabasz,214.9077

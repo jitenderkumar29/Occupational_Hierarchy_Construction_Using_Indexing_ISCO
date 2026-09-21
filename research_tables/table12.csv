@@ -1,0 +1,4 @@
+Question,Answer
+Can hierarchy be induced?,YES (NMI: 0.7465)
+Does semantic indexing help?,YES (35% improvement)
+How does it compare to ISCO?,Substantial (ARI: 0.4918)

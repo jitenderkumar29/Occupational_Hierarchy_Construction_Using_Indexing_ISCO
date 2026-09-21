@@ -1,0 +1,5 @@
+Metric,Baseline,Proposed
+ARI,0.5500,0.4918
+NMI,0.6000,0.7465
+AMI,0.5500,0.7307
+Silhouette,0.1500,0.1688

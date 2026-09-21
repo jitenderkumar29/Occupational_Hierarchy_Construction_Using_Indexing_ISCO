@@ -1,0 +1,8 @@
+Level,Index Type,Purpose,Count
+Level 1,Occupation Index,Record-level indexing,1313
+Level 2,Version Index,Version tracking,4
+Level 2,Major Index,Root node indexing,12
+Level 2,Sub-Major Index,Intermediate node indexing,0
+Level 2,Minor Index,Intermediate node indexing,256
+Level 2,Unit Index,Leaf node indexing,1030
+Level 3,Semantic Index,Text-based indexing,1313

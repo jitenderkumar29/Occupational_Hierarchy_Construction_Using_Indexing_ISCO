@@ -1,0 +1,6 @@
+Phase,Time (s)
+Data Loading,0.5
+Semantic Indexing,1.5
+Hierarchy Construction,1.0
+Evaluation,0.5
+Visualization,2.0

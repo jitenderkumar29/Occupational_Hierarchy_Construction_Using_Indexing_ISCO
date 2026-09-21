@@ -1,0 +1,6 @@
+Component,Class
+Data Loader,ISCOResearchDataLoader
+Semantic Indexer,ResearchSemanticIndexer
+Hierarchy Constructor,ResearchHierarchyConstructor
+Evaluator,ResearchHierarchyEvaluator
+Visualizer,ResearchHierarchyVisualizer
